@@ -4,6 +4,7 @@ print("1. Addition (+)")
 print("2. Subtraction (-)")
 print("3. Multiplication (*)")
 print("4. Division (/)")
+print("5. Input the quit (q)")
 
 # Function for the option
 def addition(num1,num2):
@@ -45,6 +46,8 @@ while True:
             num1 = int(input("Enter the 1st number: "))
             num2 = int(input("Enter the 2nd number: "))  
             print("Addition is: ", division(num1,num2)) 
-        case 5:
+        case q:
+            print("Input the q for quit: ")
             break
+            
            
