@@ -18,3 +18,5 @@ GUI version 1.0.1
    -  Subtraction
    -  Multiplication
    -  Division
+
+<img width="322" alt="GUIcalculator" src="https://github.com/user-attachments/assets/ec374d3d-6a07-4281-be06-3d00b2a31256">
