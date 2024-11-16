@@ -1,4 +1,4 @@
-# Calculator ⌄
+# Calculator
 
 ### Overview
 <p>
