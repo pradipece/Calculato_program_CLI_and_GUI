@@ -10,7 +10,7 @@ Now available is the calculator program version: 1.0.1
 
 GUI version 1.0.1
 
-### Fiatures
+### Features
  - CLI and GUI
  - Calculator Functionalities:
    -  Addition
