@@ -1,4 +1,4 @@
-# Calculator
+# Calculator program CLI and GUI
 
 ### Overview
 <p>
