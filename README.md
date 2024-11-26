@@ -2,7 +2,7 @@
 
 ### Overview
 <p>
-This calculator project perform basic arithmetic oprations calculator. The number of operations depends on the <b>time complexity O(1) and Space complexity O(1) </b>
+This calculator project performs basic arithmetic operations calculator. The number of operations depends on the <b>time complexity O(1) and Space complexity O(1) </b>
 </p>
 This is the calculator program version: 1.0.0
 
