@@ -22,4 +22,4 @@ GUI version 1.0.1
 
 ### License
 
-[MIT Licese](LICESE)
+[MIT Licese](LICENSE)
